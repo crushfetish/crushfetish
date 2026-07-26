@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Website:
-<a href="https://crushfetish.github.io/crushfetish/">https://crushfetish.github.io/crushfetish/</a>
+<a href="https://crushfetish.github.io/crushfetish/" target="_blank">https://crushfetish.github.io/crushfetish/</a>
 
 <!--
 **crushfetish/crushfetish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
